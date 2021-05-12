@@ -1,4 +1,4 @@
-
+//This is new commit
 abstract class SuperClass
 {
 	abstract int sumOfTwo(int a, int b);
@@ -8,6 +8,7 @@ abstract class SuperClass
 		System.out.println("This is a Concrete Method");
 	}
 }
+
 public class AbstractClass1 extends SuperClass
 {
 	int sumOfTwo(int a,int b)
