@@ -23,6 +23,10 @@ abstract class SuperClass
 	{
 		System.out.println("This is a Concrete Method in the super class");
 	}
+	void newMeth()
+	{
+		System.out.println("This is a Concrete Method in the super class");
+	}
 }
 
 public class AbstractClass1 extends SuperClass
